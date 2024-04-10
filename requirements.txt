@@ -1,0 +1,3 @@
+1- Download anaconda to use Jupyter lab or Jupyter notebook
+2- download python 3.8.x to support tensorflow
+3- Download required libraries using (!pip install tensorflow=2.10.0 opencv-python mediapipe sklearn matplotlib)
